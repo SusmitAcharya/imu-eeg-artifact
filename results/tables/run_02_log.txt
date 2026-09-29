@@ -1,0 +1,14 @@
+Sub1EB            5005 samples   39.1 s  EEG rms     59.1  IMU rms    22.58  dropped: MOT.MagX;MOT.MagY;MOT.MagZ
+Sub1EBM           4989 samples   39.0 s  EEG rms   101.96  IMU rms    34.67  dropped: MOT.MagX;MOT.MagY;MOT.MagZ
+Sub1EM            5260 samples   41.1 s  EEG rms    63.08  IMU rms    23.08  dropped: EEG.RawCq;MOT.MagX;MOT.MagY;MOT.MagZ
+Sub1HS            4964 samples   38.8 s  EEG rms    58.52  IMU rms     87.7  dropped: MOT.MagX;MOT.MagY;MOT.MagZ
+Sub1HT            4823 samples   37.7 s  EEG rms    87.37  IMU rms    115.5  dropped: MOT.MagX;MOT.MagY;MOT.MagZ
+Sub1LS            4489 samples   35.1 s  EEG rms    38.25  IMU rms    56.64  dropped: MOT.MagX;MOT.MagY;MOT.MagZ
+Sub1Music         4957 samples   38.7 s  EEG rms    47.02  IMU rms    26.59  dropped: MOT.MagX;MOT.MagY;MOT.MagZ
+Sub1Relax         4825 samples   37.7 s  EEG rms    47.41  IMU rms    20.25  dropped: MOT.MagX;MOT.MagY;MOT.MagZ
+Sub1Relaxopen     4905 samples   38.3 s  EEG rms    31.99  IMU rms     20.9  dropped: MOT.MagX;MOT.MagY;MOT.MagZ
+Sub1SUSD          4582 samples   35.8 s  EEG rms    78.83  IMU rms   253.84  dropped: MOT.MagX;MOT.MagY;MOT.MagZ
+Sub1Talking       4848 samples   37.9 s  EEG rms    57.38  IMU rms    49.38  dropped: MOT.MagX;MOT.MagY;MOT.MagZ
+Sub1Walking       4632 samples   36.2 s  EEG rms   124.56  IMU rms   286.52  dropped: EEG.RawCq;MOT.MagX;MOT.MagY;MOT.MagZ
+
+Saved 12 files to C:\Users\susmi\Desktop\imu-eeg-artifact\data\interim and manifest.csv

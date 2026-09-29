@@ -1,0 +1,13 @@
+file,n_imu_cols,heldout_R2_mean,heldout_R2_best_channel
+Sub1EB,9,-0.684,-0.27
+Sub1EBM,9,-1.429,-0.224
+Sub1EM,9,-1.535,-0.089
+Sub1HS,9,-0.192,0.025
+Sub1HT,9,-0.421,-0.208
+Sub1LS,9,-0.136,-0.019
+Sub1Music,9,-0.452,-0.198
+Sub1Relax,9,-0.245,-0.119
+Sub1Relaxopen,9,-1.105,-0.303
+Sub1SUSD,9,-0.357,0.195
+Sub1Talking,9,-22.876,-1.493
+Sub1Walking,9,-0.202,0.214

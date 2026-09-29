@@ -1,0 +1,74 @@
+==============================================================================
+CHECK 1: column names
+
+Sub1EB: 23 columns, 14 EEG
+  non-EEG columns (9): ['MOT.GyroX', 'MOT.GyroY', 'MOT.GyroZ', 'MOT.AccX', 'MOT.AccY', 'MOT.AccZ', 'MOT.MagX', 'MOT.MagY', 'MOT.MagZ']
+  used as IMU (9):     ['MOT.GyroX', 'MOT.GyroY', 'MOT.GyroZ', 'MOT.AccX', 'MOT.AccY', 'MOT.AccZ', 'MOT.MagX', 'MOT.MagY', 'MOT.MagZ']
+
+Sub1EBM: 23 columns, 14 EEG
+  non-EEG columns (9): ['MOT.GyroX', 'MOT.GyroY', 'MOT.GyroZ', 'MOT.AccX', 'MOT.AccY', 'MOT.AccZ', 'MOT.MagX', 'MOT.MagY', 'MOT.MagZ']
+  used as IMU (9):     ['MOT.GyroX', 'MOT.GyroY', 'MOT.GyroZ', 'MOT.AccX', 'MOT.AccY', 'MOT.AccZ', 'MOT.MagX', 'MOT.MagY', 'MOT.MagZ']
+
+Sub1EM: 24 columns, 15 EEG
+  non-EEG columns (9): ['MOT.GyroX', 'MOT.GyroY', 'MOT.GyroZ', 'MOT.AccX', 'MOT.AccY', 'MOT.AccZ', 'MOT.MagX', 'MOT.MagY', 'MOT.MagZ']
+  used as IMU (9):     ['MOT.GyroX', 'MOT.GyroY', 'MOT.GyroZ', 'MOT.AccX', 'MOT.AccY', 'MOT.AccZ', 'MOT.MagX', 'MOT.MagY', 'MOT.MagZ']
+
+Sub1HS: 23 columns, 14 EEG
+  non-EEG columns (9): ['MOT.GyroX', 'MOT.GyroY', 'MOT.GyroZ', 'MOT.AccX', 'MOT.AccY', 'MOT.AccZ', 'MOT.MagX', 'MOT.MagY', 'MOT.MagZ']
+  used as IMU (9):     ['MOT.GyroX', 'MOT.GyroY', 'MOT.GyroZ', 'MOT.AccX', 'MOT.AccY', 'MOT.AccZ', 'MOT.MagX', 'MOT.MagY', 'MOT.MagZ']
+
+Sub1HT: 23 columns, 14 EEG
+  non-EEG columns (9): ['MOT.GyroX', 'MOT.GyroY', 'MOT.GyroZ', 'MOT.AccX', 'MOT.AccY', 'MOT.AccZ', 'MOT.MagX', 'MOT.MagY', 'MOT.MagZ']
+  used as IMU (9):     ['MOT.GyroX', 'MOT.GyroY', 'MOT.GyroZ', 'MOT.AccX', 'MOT.AccY', 'MOT.AccZ', 'MOT.MagX', 'MOT.MagY', 'MOT.MagZ']
+
+Sub1LS: 23 columns, 14 EEG
+  non-EEG columns (9): ['MOT.GyroX', 'MOT.GyroY', 'MOT.GyroZ', 'MOT.AccX', 'MOT.AccY', 'MOT.AccZ', 'MOT.MagX', 'MOT.MagY', 'MOT.MagZ']
+  used as IMU (9):     ['MOT.GyroX', 'MOT.GyroY', 'MOT.GyroZ', 'MOT.AccX', 'MOT.AccY', 'MOT.AccZ', 'MOT.MagX', 'MOT.MagY', 'MOT.MagZ']
+
+Sub1Music: 23 columns, 14 EEG
+  non-EEG columns (9): ['MOT.GyroX', 'MOT.GyroY', 'MOT.GyroZ', 'MOT.AccX', 'MOT.AccY', 'MOT.AccZ', 'MOT.MagX', 'MOT.MagY', 'MOT.MagZ']
+  used as IMU (9):     ['MOT.GyroX', 'MOT.GyroY', 'MOT.GyroZ', 'MOT.AccX', 'MOT.AccY', 'MOT.AccZ', 'MOT.MagX', 'MOT.MagY', 'MOT.MagZ']
+
+Sub1Relax: 23 columns, 14 EEG
+  non-EEG columns (9): ['MOT.GyroX', 'MOT.GyroY', 'MOT.GyroZ', 'MOT.AccX', 'MOT.AccY', 'MOT.AccZ', 'MOT.MagX', 'MOT.MagY', 'MOT.MagZ']
+  used as IMU (9):     ['MOT.GyroX', 'MOT.GyroY', 'MOT.GyroZ', 'MOT.AccX', 'MOT.AccY', 'MOT.AccZ', 'MOT.MagX', 'MOT.MagY', 'MOT.MagZ']
+
+Sub1Relaxopen: 23 columns, 14 EEG
+  non-EEG columns (9): ['MOT.GyroX', 'MOT.GyroY', 'MOT.GyroZ', 'MOT.AccX', 'MOT.AccY', 'MOT.AccZ', 'MOT.MagX', 'MOT.MagY', 'MOT.MagZ']
+  used as IMU (9):     ['MOT.GyroX', 'MOT.GyroY', 'MOT.GyroZ', 'MOT.AccX', 'MOT.AccY', 'MOT.AccZ', 'MOT.MagX', 'MOT.MagY', 'MOT.MagZ']
+
+Sub1SUSD: 23 columns, 14 EEG
+  non-EEG columns (9): ['MOT.GyroX', 'MOT.GyroY', 'MOT.GyroZ', 'MOT.AccX', 'MOT.AccY', 'MOT.AccZ', 'MOT.MagX', 'MOT.MagY', 'MOT.MagZ']
+  used as IMU (9):     ['MOT.GyroX', 'MOT.GyroY', 'MOT.GyroZ', 'MOT.AccX', 'MOT.AccY', 'MOT.AccZ', 'MOT.MagX', 'MOT.MagY', 'MOT.MagZ']
+
+Sub1Talking: 23 columns, 14 EEG
+  non-EEG columns (9): ['MOT.GyroX', 'MOT.GyroY', 'MOT.GyroZ', 'MOT.AccX', 'MOT.AccY', 'MOT.AccZ', 'MOT.MagX', 'MOT.MagY', 'MOT.MagZ']
+  used as IMU (9):     ['MOT.GyroX', 'MOT.GyroY', 'MOT.GyroZ', 'MOT.AccX', 'MOT.AccY', 'MOT.AccZ', 'MOT.MagX', 'MOT.MagY', 'MOT.MagZ']
+
+Sub1Walking: 24 columns, 15 EEG
+  non-EEG columns (9): ['MOT.GyroX', 'MOT.GyroY', 'MOT.GyroZ', 'MOT.AccX', 'MOT.AccY', 'MOT.AccZ', 'MOT.MagX', 'MOT.MagY', 'MOT.MagZ']
+  used as IMU (9):     ['MOT.GyroX', 'MOT.GyroY', 'MOT.GyroZ', 'MOT.AccX', 'MOT.AccY', 'MOT.AccZ', 'MOT.MagX', 'MOT.MagY', 'MOT.MagZ']
+
+*** Column counts differ across files. Non-23 files: ['Sub1EM', 'Sub1Walking']
+
+==============================================================================
+CHECK 2: eyes-closed alpha (Relax) vs eyes-open (Relaxopen), O1 and O2
+  alpha peak (7-13 Hz):  closed 10.25 Hz | open 7.75 Hz
+  alpha power 8-12 Hz:   closed 49.2 | open 8.72 | ratio closed/open 5.64
+
+==============================================================================
+CHECK 3: held-out R2 of lagged-IMU ridge regression on EEG (1-45 Hz, 2-fold contiguous)
+  Sub1EB           IMU cols  9   mean R2  -0.684   best channel  -0.270
+  Sub1EBM          IMU cols  9   mean R2  -1.429   best channel  -0.224
+  Sub1EM           IMU cols  9   mean R2  -1.535   best channel  -0.089
+  Sub1HS           IMU cols  9   mean R2  -0.192   best channel   0.025
+  Sub1HT           IMU cols  9   mean R2  -0.421   best channel  -0.208
+  Sub1LS           IMU cols  9   mean R2  -0.136   best channel  -0.019
+  Sub1Music        IMU cols  9   mean R2  -0.452   best channel  -0.198
+  Sub1Relax        IMU cols  9   mean R2  -0.245   best channel  -0.119
+  Sub1Relaxopen    IMU cols  9   mean R2  -1.105   best channel  -0.303
+  Sub1SUSD         IMU cols  9   mean R2  -0.357   best channel   0.195
+  Sub1Talking      IMU cols  9   mean R2 -22.876   best channel  -1.493
+  Sub1Walking      IMU cols  9   mean R2  -0.202   best channel   0.214
+
+Saved: C:\Users\susmi\Desktop\imu-eeg-artifact\results\figures\inspect\alpha_check.png | C:\Users\susmi\Desktop\imu-eeg-artifact\results\figures\inspect\feasibility_r2.png | C:\Users\susmi\Desktop\imu-eeg-artifact\results\tables\feasibility_r2.csv

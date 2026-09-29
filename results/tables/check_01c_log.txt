@@ -1,0 +1,64 @@
+==============================================================================
+Sub1EB
+  coherence excess  low 1-8 Hz +0.005 (real 0.045, null 0.040) | mid 8-30 Hz +0.009
+  strongest IMU column (low band): MOT.AccY
+  ridge ceiling (1-8 Hz, blocked CV): mean R2 -0.013 at lambda 10000; best channel O2 R2 +0.006
+==============================================================================
+Sub1EBM
+  coherence excess  low 1-8 Hz +0.065 (real 0.147, null 0.082) | mid 8-30 Hz +0.041
+  strongest IMU column (low band): MOT.AccX
+  ridge ceiling (1-8 Hz, blocked CV): mean R2 -0.012 at lambda 10000; best channel AF3 R2 +0.102
+==============================================================================
+Sub1EM
+  EXTRA EEG-prefixed column 'EEG.RawCq': mean 1886.1  std 1590.4  min 0.0  max 4492.0  unique values 597
+  coherence excess  low 1-8 Hz +0.014 (real 0.054, null 0.040) | mid 8-30 Hz -0.005
+  strongest IMU column (low band): MOT.GyroX
+  ridge ceiling (1-8 Hz, blocked CV): mean R2 -0.002 at lambda 10000; best channel FC5 R2 +0.043
+==============================================================================
+Sub1HS
+  coherence excess  low 1-8 Hz +0.031 (real 0.084, null 0.052) | mid 8-30 Hz +0.064
+  strongest IMU column (low band): MOT.GyroZ
+  ridge ceiling (1-8 Hz, blocked CV): mean R2 +0.022 at lambda 10000; best channel F8 R2 +0.091
+==============================================================================
+Sub1HT
+  coherence excess  low 1-8 Hz +0.115 (real 0.173, null 0.058) | mid 8-30 Hz +0.038
+  strongest IMU column (low band): MOT.GyroX
+  ridge ceiling (1-8 Hz, blocked CV): mean R2 +0.027 at lambda 10000; best channel FC5 R2 +0.096
+==============================================================================
+Sub1LS
+  coherence excess  low 1-8 Hz +0.083 (real 0.150, null 0.067) | mid 8-30 Hz +0.020
+  strongest IMU column (low band): MOT.AccZ
+  ridge ceiling (1-8 Hz, blocked CV): mean R2 +0.028 at lambda 10000; best channel AF3 R2 +0.082
+==============================================================================
+Sub1Music
+  coherence excess  low 1-8 Hz +0.012 (real 0.071, null 0.059) | mid 8-30 Hz +0.024
+  strongest IMU column (low band): MOT.GyroY
+  ridge ceiling (1-8 Hz, blocked CV): mean R2 -0.010 at lambda 10000; best channel F8 R2 +0.050
+==============================================================================
+Sub1Relax
+  coherence excess  low 1-8 Hz +0.009 (real 0.057, null 0.049) | mid 8-30 Hz +0.001
+  strongest IMU column (low band): MOT.GyroX
+  ridge ceiling (1-8 Hz, blocked CV): mean R2 -0.014 at lambda 10000; best channel T8 R2 +0.023
+==============================================================================
+Sub1Relaxopen
+  coherence excess  low 1-8 Hz +0.007 (real 0.057, null 0.050) | mid 8-30 Hz +0.003
+  strongest IMU column (low band): MOT.AccX
+  ridge ceiling (1-8 Hz, blocked CV): mean R2 -0.028 at lambda 10000; best channel F4 R2 +0.005
+==============================================================================
+Sub1SUSD
+  coherence excess  low 1-8 Hz +0.101 (real 0.162, null 0.060) | mid 8-30 Hz +0.134
+  strongest IMU column (low band): MOT.AccX
+  ridge ceiling (1-8 Hz, blocked CV): mean R2 +0.091 at lambda 10000; best channel FC5 R2 +0.329
+==============================================================================
+Sub1Talking
+  coherence excess  low 1-8 Hz +0.025 (real 0.079, null 0.055) | mid 8-30 Hz +0.058
+  strongest IMU column (low band): MOT.GyroY
+  ridge ceiling (1-8 Hz, blocked CV): mean R2 -0.456 at lambda 10000; best channel F4 R2 -0.140
+==============================================================================
+Sub1Walking
+  EXTRA EEG-prefixed column 'EEG.RawCq': mean 1883.6  std 1583.1  min 0.0  max 4968.0  unique values 729
+  coherence excess  low 1-8 Hz +0.160 (real 0.214, null 0.053) | mid 8-30 Hz +0.000
+  strongest IMU column (low band): MOT.AccX
+  ridge ceiling (1-8 Hz, blocked CV): mean R2 +0.176 at lambda 10; best channel P8 R2 +0.383
+
+Saved: C:\Users\susmi\Desktop\imu-eeg-artifact\results\tables\coupling_check.csv | C:\Users\susmi\Desktop\imu-eeg-artifact\results\figures\inspect\coupling_check.png
